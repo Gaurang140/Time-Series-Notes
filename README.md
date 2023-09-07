@@ -257,6 +257,7 @@ notebook given(convert into end to end)
 
 •An endogenous variable is one
 that is influenced by other factors in the system. flower growth is affected by sunlight and is therefore endogenous.
+
 Exogenous variables…
 •are fixed when they enter the model.
 •are taken as a “given” in the model.
@@ -267,20 +268,3 @@ Exogenous variables…
 
 
 
-•As a part of the project, one of the production units we are analyzing is based in South East Asia.
-
-•This unit is completely independent and caters to neighboring geographies. This unit is just a decade and a half old. In 2014 , they captured 11% of the market share, a 14% increase from the previous year.
- 
-
-
-
-•However, being a new unit they have very little bargaining power with their suppliers to implement Just-in-Time (JiT) manufacturing principles that have worked really well in PH’s base location.
-
-•Hence, they want to be on top of their production planning to maintain healthy business margins.
- 
-
-
-
-•Monthly sales forecast is the first step we have suggested to this unit towards effective inventory management.
-
-•The MIS team shared the month on month (MoM) sales figures (number of tractors sold) for the last 12 years
