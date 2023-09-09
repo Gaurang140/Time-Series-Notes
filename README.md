@@ -33,7 +33,7 @@ Time series analysis allows us to better understand and model complex data patte
 
 It is much easier to forecast the individual regular patterns produced through decomposition of time series than the actual series.
 
-add images of Trend,Seasonality,Cyclical
+
 
 
 -------
@@ -75,9 +75,9 @@ If we've determined your data is not stationary (either visually or mathematical
 
 One simple way to do this is through "differencing."
 
-**Original Data**
-**First Difference**
-**Second Difference**
+- **Original Data**
+- **First Difference**
+- **Second Difference**
 
 #### Differencing
 
@@ -104,9 +104,7 @@ A big part of this involves AutoCorrelation Plots and Partial AutoCorrelation Pl
 ------------
 -----------
 
-Certainly! Here are notes on moving averages over time, ACF (Autocorrelation Function), and PACF (Partial Autocorrelation Function) with formulas and examples:
 
----
 
 # Moving Averages Over Time
 
